@@ -8,13 +8,9 @@
         <table class="social-media-list">
           {% if site.github_username %}
           <tr>
-            <td><a href="https://github.com/{{ site.github_username }}">
-              <span class="icon  icon--github">
-               <i class="fa fa-github"></i>
-              </span> </a></td>
 							<td>
 							<a href="https://github.com/{{ site.github_username }}">
-              <span class="username">{{ Github }}</span>    
+              <span class="username">Github</span>    
 							</a>							
 						</td> 
           </tr>
@@ -22,13 +18,9 @@
 
           {% if site.facebook_username %}
           <tr>
-            <td><a href="https://facebook.com/{{ site.facebook_username }}">
-              <span class="icon  icon--facebook">
-               <i class="fa fa-facebook"></i>
-              </span> </a></td>
 							<td>
 							<a href="https://facebook.com/{{ site.facebook_username }}">
-              <span class="username">{{ Facebook }}</span>    
+              <span class="username">Facebook</span>    
 							</a>							
 						</td> 
           </tr>
@@ -42,7 +34,7 @@
               </span> </a></td>
 							<td>
 							<a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="username">{{ Twitter }}</span>    
+              <span class="username">Twitter</span>    
 							</a>							
 						</td> 
           </tr>
