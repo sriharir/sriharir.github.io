@@ -1,23 +1,16 @@
 ---
 layout: post
-title:  "Theory of Fulfillment"
+title: Days Gone By
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I just turned 20. Yay? It's not as much a matter of celebration as I realize I am still the same old lazy person I used to be when I was 19 (aka yesterday). Here in my room, while I should have been attending a class, slouched in front of the laptop trying to get something worthwhile done (and failing!). Although it is with a reason I did not attend class today, I am still guilty of having bunked a few others without reason enough.
 
-Jekyll also offers powerful support for code snippets:
+It's really interesting and motivating to think that it is for a reason, that I go lazy often - like, it's my kind to be lazy, and in spite of that, things would work out pretty well, as it should for a person of my kind. But rather, the thought is nowadays more often than not, shadowed by the doubt of whether it's only myself trying to justify my own deeds.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+But to be very honest, I find the very idea of having a schedule allotted for my days, by someone besides myself very discomforting. There have been numerous nights when a stroke of inspiration would strike me, and I would want to read a book or watch or movie, or even write something. But the reality of having to wake up early the next morning for the purpose of attending classes would start weighing heavily on my heart, and I would slowly shut down my ideas. I remember this last Sunday, the night was really pleasant at the moonlit rooftop, with a friend discussing somethings emotionally and intellectually challenging. It was almost 2 and the though of seven thirty class the next morning nudged me in the back of my head. But the moment was so beautiful, pleasing and relaxing, that I was able to conclude it's not worth giving up for a bit of extra sleep. So did I not. Unfortunately for me, I ended up not giving up on the night, neither sleep, but rather the class. And the whole routine of lying to mom about having attended classes I did not, it kills me. I wish not to. But I have this belief that everything would work out as she would want, only in this case, without having to attend classes. So, I would rather let her stay in peace, and end up with what she wants out of me, rather than put pressure on myself and her.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+But the funny thing is, I feel the happiest when I do things. Not attending-classes-things. But accomplishments. Be it a small chore like putting up posters for society, or writing something - the pride, satisfaction and happiness I derive overrides all other feelings. Plus, the feeling is something I would never achieve from watching new episode of my favourite show or by checking out social networking sites. Its the feeling of having done something that I could be proud of. I think that is the origin of happiness. Accomplishments - small and big. The moonlit rooftop was an accomplishment of sorts - I derived a sense of wonder and imagination staring into the star studded sky that night. It was fulfilling.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Hence, I think the formula for happiness and satisfaction is simple. Do something new, or challenging or out of the comfort zone. But the problem is the comfort zone. We are so very cozy in our current position, we don't feel like letting it go for the sake of something, the outcome of which is at least partially unknown. Maybe that's why I preferred to stay back and chill in my room for three days of Holi off days - rather than actively trying to make that Darjeeling trip happen. The perfect analogy would be a ride in an amusement park. Ground is good, safe and easy. The ride is not. But we all would know how amazing it is actually to break free of the comfort zone chains, and take a swing on the ride.
+
+As Forrest Gump would say, life is like a box of chocolates. Yes, you never know what you are going to get, but the point is the open the box nevertheless. And let this post inspire me to to squeeze out the most out of my twenties.

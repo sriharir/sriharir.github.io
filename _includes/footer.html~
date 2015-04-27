@@ -34,17 +34,15 @@
           </tr>
           {% endif %}
  					
-					 {% if site.twitter_username %}
+					{% if site.twitter_username %}
           <tr>
-            <td><a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="icon  icon--twitter">
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <td><span class="icon  icon--twitter">
                <i class="fa fa-twitter"></i>
-              </span> </a></td>
-							<td>
-							<a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="username">{{ site.twitter_username }}</span>    
-							</a>							
-						</td> 
+              </span></td>
+
+              <td><span class="username">{{ site.twitter_username }}</span></td>
+            </a>
           </tr>
           {% endif %}
         </table>

@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Days go by and things don't happen. The scribbled lines were never pursued and made into a verse. The cartoon I'd imagined never took form on paper. The story of the extra-curious safe keeper still lacks written words. The intelligent chat bot is still a flowchart. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Let it be.
