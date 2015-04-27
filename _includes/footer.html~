@@ -14,7 +14,7 @@
               </span> </a></td>
 							<td>
 							<a href="https://github.com/{{ site.github_username }}">
-              <span class="username">{{ site.github_username }}</span>    
+              <span class="username">{{ Github }}</span>    
 							</a>							
 						</td> 
           </tr>
@@ -28,21 +28,23 @@
               </span> </a></td>
 							<td>
 							<a href="https://facebook.com/{{ site.facebook_username }}">
-              <span class="username">{{ site.facebook_username }}</span>    
+              <span class="username">{{ Facebook }}</span>    
 							</a>							
 						</td> 
           </tr>
           {% endif %}
  					
-					{% if site.twitter_username %}
+					 {% if site.twitter_username %}
           <tr>
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <td><span class="icon  icon--twitter">
+            <td><a href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="icon  icon--twitter">
                <i class="fa fa-twitter"></i>
-              </span></td>
-
-              <td><span class="username">{{ site.twitter_username }}</span></td>
-            </a>
+              </span> </a></td>
+							<td>
+							<a href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="username">{{ Twitter }}</span>    
+							</a>							
+						</td> 
           </tr>
           {% endif %}
         </table>
