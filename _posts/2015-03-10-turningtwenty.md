@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Days Gone By
+title:  "Days Gone By"
+summary: Rant on Turning 20
 ---
+
 
 I just turned 20. Yay? It's not as much a matter of celebration as I realize I am still the same old lazy person I used to be when I was 19 (aka yesterday). Here in my room, while I should have been attending a class, slouched in front of the laptop trying to get something worthwhile done (and failing!). Although it is with a reason I did not attend class today, I am still guilty of having bunked a few others without reason enough.
 

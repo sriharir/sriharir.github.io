@@ -13,7 +13,6 @@ comments: true
   <article class="post-content">
     {{ content }}
   </article>
-<div class="fb-like" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% include disqus.html %}
 </div>
