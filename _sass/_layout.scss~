@@ -12,7 +12,7 @@
 
 .site-title {
 		font-family:LMSansDemiCond10;
-    font-size: 25px;
+    font-size: 32px;
     line-height: 70px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -236,6 +236,25 @@
 
         @include media-query($on-laptop) {
             font-size: 18px;
+        }
+    }
+}
+
+.share-page {
+    text-align: center;
+    background: blue;
+    color: alice blue;
+    padding: 8px 15px;
+    border-radius: 5px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        font-weight: 700;
+        color: #fff;
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
         }
     }
 }
