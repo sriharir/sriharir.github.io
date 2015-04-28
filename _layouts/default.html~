@@ -5,7 +5,7 @@
 
   <body>
 	
-		{% include facebook.html %}
+		{% include header.html %}
     {% include header.html %}
 
     <div class="page-content">

@@ -3,14 +3,6 @@ layout: default
 comments: true
 ---
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=863663590364622";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="post">
 
@@ -23,7 +15,9 @@ comments: true
     {{ content }}
   </article>
 
-<div class="fb-like" data-href="http://sriharir.github.io{{page.url}}" data-width="7" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="http://sriharir.github.io{{page.url}}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+
 
 {% include disqus.html %}
 </div>
