@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Elections in KGP"
+summary: Article written for Scholars' Avenue selection
 ---
 
 I assumed election in IIT Kharagpur was going to be an exhibition of innovation and unconventionality. I assumed how the few who would dare to make revolting changes in the institute would take help from similar minded people to propagate and garner support for their propositions, and eventually win the elections. I assumed a fair world wherein, at the onset, every candidate stands an equal chance to reach the acme. These are all what I assumed would happen once I got to know that KGP was gearing up for its annual elections. Well, personally, I found them exciting and engaging, but not quite so innovative or out of the box as I would have wanted it to be.

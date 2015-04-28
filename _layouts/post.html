@@ -1,7 +1,6 @@
 ---
 layout: default
 comments: true
-sharing: true
 ---
 
 <div class="post">
@@ -14,7 +13,7 @@ sharing: true
   <article class="post-content">
     {{ content }}
   </article>
-<div class="fb-like" data-href="{{page.url}}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% include disqus.html %}
 </div>
