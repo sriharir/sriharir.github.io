@@ -10,6 +10,8 @@ comments: true
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=863663590364622";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+
 <div class="post">
 
   <header class="post-header">
@@ -20,6 +22,8 @@ comments: true
   <article class="post-content">
     {{ content }}
   </article>
+
+<div class="fb-like" data-href="" data-width="7" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 					{% if page.comments %}
 						<div id="disqus_thread"></div>
@@ -34,7 +38,7 @@ comments: true
       			  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
  											   })();
 						</script>
-						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+						<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by 							Disqus.</a></noscript>
           {% endif %}
 
 </div>
