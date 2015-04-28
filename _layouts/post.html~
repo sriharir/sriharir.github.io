@@ -16,14 +16,14 @@ comments: true
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.url %} • {{ page.url }}{% endif %}</p>
   </header>
 
   <article class="post-content">
     {{ content }}
   </article>
 
-<div class="fb-like" data-href="http://sriharir.github.io/#" data-width="7" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="http://sriharir.github.io{{page.url}}" data-width="7" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 {% include disqus.html %}
 </div>
