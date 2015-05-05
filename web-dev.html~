@@ -7,15 +7,14 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-
+				{% if category == "web-app"}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					<p class="post-meta">{{ post.date | date: "%b %-d, %Y" }} {% if post.summary %}• {{ post.summary}}{% endif %}</p>
         </h2>
-
+				{% endif %}
       </li>
     {% endfor %}
   </ul>
-<script>fid="stream2u"; id="28563_1"; width=650; height=450;</script><script type="text/javascript" src="http://www.stream2utv.eu/js/embed.js"></script>
 
 </div>
