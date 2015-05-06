@@ -6,8 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
-	<script>fid="stream2u"; id="28563_1"; width=650; height=450;</script><script type="text/javascript" src="http://www.stream2utv.eu/js/embed.js"></script>
-  <article class="post-content">
+	<script>fid="stream2u"; id="28570_1"; width=650; height=450;</script> <!--<script type="text/javascript" src="http://www.stream2utv.eu/js/embed.js"></script>-->
     {{ content }}
   </article>
 

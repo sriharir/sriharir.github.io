@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Juve vs Real
-permalink: /about/
+title: Barca Bayern
+permalink: /matchday/
 ---
 
