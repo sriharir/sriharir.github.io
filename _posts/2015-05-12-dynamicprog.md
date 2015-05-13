@@ -71,15 +71,18 @@ using namespace std;
 
 class Fibo{
 	private:
+		//data table to store values
 		int table[MAX];
-		int lastval;
+		//storing last n for which F(n) in table
+		int lastval; 
 	public:
 		Fibo(){
 			int i;	
+			//initializing data table
 			for(i=0;i<MAX;i++)
 				table[i]=NIL;
-			table[0]=0;
-			table[1]=1;
+			table[0]=0; //base condition
+			table[1]=1; //base condition
 			lastval=1;
 			}
 		int fibon(int n){
@@ -87,6 +90,7 @@ class Fibo{
 				return table[n];
 			else{
 				int j;
+				//storing values starting from last stopped place
 				for(j=lastval+1;j<=n;j++)
 					table[j]=table[j-1]+table[j-2];
 				lastval=n;
@@ -176,4 +180,4 @@ class Coin{
 
 This fairly highlights the way to go about any dynamic programming. Once the substructure is mathematically formulated, it's only a matter of simple implementation.
 
-Come back to read an updated version with couple more examples.
+Come back to read an updated version with couple more examples later. Point out any mistakes, clarifications or scope for confusion in the comments, pretty please!
