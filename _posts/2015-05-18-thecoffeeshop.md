@@ -1,3 +1,7 @@
+---
+layout: post
+title: Walk to the Coffee Shop
+---
 We don't appreciate our places enough. The same roads I travel through almost every other day in a car, the same pavements, the same inroads. All of them seemed like completely different places, while traveling on foot.
 
 The evening was mildly chilly, and I was with company. There were three of us, all of us with no plans for the future, both immediate and long term, and a common consensus to hit the road on foot. All of us, lived pretty close to each other and the area was equally well known. After being shut out to a remote campus in the middle of nowhere for four months, what I looked forward to in Kochi turned out to be the traffic, the crowd, the sprawling malls and the city lights. So the nearest highway, that's where we were headed to.
