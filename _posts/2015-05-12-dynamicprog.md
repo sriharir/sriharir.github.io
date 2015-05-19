@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Introduction to Dynamic Programming"
-summary: Summary of 4 days worth of learning.
+summary: Summary of 4 days worth of learning
+category: "tech"
 ---
 
 Majority of time during the last four days were spent on trying to understand and solve Dynamic Programming related questions. While I attempted and glanced through quite a few of them, I implemented in CPP about 9 of them so far. So this blog post is a means to review and to streamline all the concepts picked up so far. 

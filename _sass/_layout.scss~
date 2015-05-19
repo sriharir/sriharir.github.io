@@ -36,6 +36,8 @@
     }
 
     .page-link {
+				font-family:LMSansDemiCond10;
+				font-size: 22px;
         color: $text-color;
         line-height: $base-line-height;
 
@@ -242,8 +244,8 @@
 
 .share-page {
     text-align: center;
-    background: $black;
-    color: $white;
+    background: black;
+    color: white;
     padding: 8px 15px;
     border-radius: 5px;
     margin: 1.5 * $spacing-unit 0;
