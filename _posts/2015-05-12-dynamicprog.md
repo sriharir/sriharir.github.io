@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to Dynamic Programming"
-summary: Summary of 4 days worth of learning
+summary: Algorithms Post 1
 category: "tech"
 ---
 
