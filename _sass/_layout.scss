@@ -45,6 +45,9 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+		&:hover {
+        color: #ff0000;
+    }
     }
 
     @include media-query($on-palm) {
