@@ -180,5 +180,3 @@ class Coin{
 {% endhighlight %}
 
 This fairly highlights the way to go about any dynamic programming. Once the substructure is mathematically formulated, it's only a matter of simple implementation.
-
-Come back to read an updated version with couple more examples later. Point out any mistakes, clarifications or scope for confusion in the comments, pretty please!
